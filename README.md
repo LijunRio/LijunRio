@@ -1,4 +1,4 @@
-### 😉 Hey there, I'm Jun Li! 👋✨
+### Hi there, I'm Jun Li! 😄👋✨
 
 - 🌱 PhD Student working on Vision-Language Models  
 - 💖 Passionate about empowering AI to *see*, *read*, and *reason* across modalities  
