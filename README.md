@@ -1,11 +1,11 @@
-<div style="max-width: 1000px; margin: 40px auto; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://media.giphy.com/media/x2HFtTHSEQZF5buQZl/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/ZCEm8QHtvNpRraaQaF/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/ce8rmh19Oao7te2mIW/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/Zf12dIijlwhaDpjtsb/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/SsJUiJZlKhu6zm1icy/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/a79NtRFHWAHFhS9e05/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/Dp3c9BedSVYnS1kIEn/giphy.gif" width="80" style="border-radius: 10px;" />
+<div style="max-width: 1000px; margin: 40px auto; display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+  <img src="https://media.giphy.com/media/x2HFtTHSEQZF5buQZl/giphy.gif" width="80" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/ZCEm8QHtvNpRraaQaF/giphy.gif" width="80" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/ce8rmh19Oao7te2mIW/giphy.gif" width="80" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/Zf12dIijlwhaDpjtsb/giphy.gif" width="80" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/SsJUiJZlKhu6zm1icy/giphy.gif" width="80" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/a79NtRFHWAHFhS9e05/giphy.gif" width="80" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/Dp3c9BedSVYnS1kIEn/giphy.gif" width="80" style="border-radius: 8px;" />
 </div>
 
 <!-- 彩色渐变标题 -->
@@ -37,19 +37,19 @@
 </p>
 
 <!-- 结尾 GIF 展示图 -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 32px auto;">
+<div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin: 32px auto;">
   <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="260" />
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="250" />
 </div>
 
-<div style="max-width: 1000px; margin: 40px auto; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://media.giphy.com/media/Ftdpb9jJsSwQ7vdYuH/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/TePVAGJDMNavD9I3m1/giphy.gif" width="80" style="border-radius: 10px;" />
-   <img src="https://media.giphy.com/media/nUxGT7uQSAln7jXA7q/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/mbiMl0NnYGnGo9lUKw/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/hvBHpNT13ekIQb98Mf/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/FhZUbztsnfbcOQbHF3/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/XX7Ur9c7MSVwD3BcVD/giphy.gif" width="80" style="border-radius: 10px;" />
+<div style="max-width: 1000px; margin: 40px auto; display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+  <img src="https://media.giphy.com/media/Ftdpb9jJsSwQ7vdYuH/giphy.gif" width="80" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/TePVAGJDMNavD9I3m1/giphy.gif" width="80" style="border-radius: 8px;" />
+   <img src="https://media.giphy.com/media/nUxGT7uQSAln7jXA7q/giphy.gif" width="80" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/mbiMl0NnYGnGo9lUKw/giphy.gif" width="80" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/hvBHpNT13ekIQb98Mf/giphy.gif" width="80" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/FhZUbztsnfbcOQbHF3/giphy.gif" width="80" style="border-radius: 8px;" />
+  <img src="https://media.giphy.com/media/XX7Ur9c7MSVwD3BcVD/giphy.gif" width="80" style="border-radius: 8px;" />
  
   
 </div>
