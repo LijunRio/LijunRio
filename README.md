@@ -12,7 +12,7 @@
 <p>
   🌱 PhD Student working on <strong>Vision-Language Models</strong><br>
   💖 Passionate about empowering AI to <em>see</em>, <em>read</em>, and <em>reason</em> across modalities<br>
-  🔭 Focused on <strong>multimodal learning</strong>, <strong>grounded understanding</strong>, and <strong>cross-modal generalization</strong>
+  🔭 Focused on <strong>multimodal learning</strong>, <strong>visual grounding</strong>, and <strong>cross-modal generalization</strong>
 </p>
 
 <p>
