@@ -45,11 +45,12 @@
 <div style="max-width: 1000px; margin: 40px auto; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://media.giphy.com/media/Ftdpb9jJsSwQ7vdYuH/giphy.gif" width="80" style="border-radius: 10px;" />
   <img src="https://media.giphy.com/media/TePVAGJDMNavD9I3m1/giphy.gif" width="80" style="border-radius: 10px;" />
+   <img src="https://media.giphy.com/media/nUxGT7uQSAln7jXA7q/giphy.gif" width="80" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/mbiMl0NnYGnGo9lUKw/giphy.gif" width="80" style="border-radius: 10px;" />
   <img src="https://media.giphy.com/media/hvBHpNT13ekIQb98Mf/giphy.gif" width="80" style="border-radius: 10px;" />
   <img src="https://media.giphy.com/media/FhZUbztsnfbcOQbHF3/giphy.gif" width="80" style="border-radius: 10px;" />
   <img src="https://media.giphy.com/media/XX7Ur9c7MSVwD3BcVD/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/nUxGT7uQSAln7jXA7q/giphy.gif" width="80" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/mbiMl0NnYGnGo9lUKw/giphy.gif" width="80" style="border-radius: 10px;" />
+ 
   
 </div>
 
