@@ -21,7 +21,6 @@
   🌐 <a href="https://lijunrio.github.io/junli/">My Homepage</a>
 </p>
 
-<!-- 居中 GIF 部分 -->
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin-top: 16px;">
   <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="260" />
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="250" />
